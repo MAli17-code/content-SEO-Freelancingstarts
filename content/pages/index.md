@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: Knowledge upon Informative Topics
-      color: text-dark
+      color: text-primary
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
