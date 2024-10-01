@@ -67,12 +67,6 @@
             "type": "Social"
         },
         {
-            "altText": "Twitter link",
-            "url": "https://twitter.com/netlify",
-            "icon": "twitter",
-            "type": "Social"
-        },
-        {
             "altText": "LinkedIn link",
             "url": "https://www.linkedin.com/in/ali-tariq-developer?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
             "icon": "linkedin",
