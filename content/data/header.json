@@ -32,7 +32,7 @@
         {
             "label": "Contact-Us",
             "altText": "Contact page",
-            "url": "/careers",
+            "url": "/contactpage",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
