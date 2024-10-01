@@ -7,7 +7,7 @@ sections:
       text: Knowledge upon Informative Topics
       color: text-primary
       type: TitleBlock
-    subtitle: ''
+    subtitle: NEW
     text: >
       ## **Content** related to marketing and **products** converts the business
       into **Brand**
