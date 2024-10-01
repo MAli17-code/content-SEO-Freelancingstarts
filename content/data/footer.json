@@ -19,7 +19,7 @@
             },
             {
                 "label": "Blog",
-                "url": "/pricing",
+                "url": "/Blog",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
