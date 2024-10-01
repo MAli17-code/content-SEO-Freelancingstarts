@@ -8,9 +8,10 @@ sections:
       color: text-primary
       type: TitleBlock
     subtitle: NEW
-    text: >
-      ## **Content** related to marketing and **products** converts the business
-      into **Brand**
+    text: >+
+      ## **Content** related to marketing and **product that** converts the
+      business into **Brand**
+
     actions:
       - label: Get started
         altText: ''
